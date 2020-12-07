@@ -1,0 +1,1 @@
+# lab3-kg-40-ballow-sugrobov-idb-18-02
