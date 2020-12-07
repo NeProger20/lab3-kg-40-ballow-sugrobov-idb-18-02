@@ -1,0 +1,8 @@
+﻿  Render.cpp
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(226,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(235,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(245,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(254,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(263,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\OpenGLrememberProj\Render.cpp(272,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  OpenGLrememberProj.vcxproj -> C:\Users\yrik\Desktop\Lab-3_KG_sugrobov_IDB-18-02-main\3 kg\Debug\OpenGLrememberProj.exe
